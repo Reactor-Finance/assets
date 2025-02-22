@@ -1,0 +1,25 @@
+{
+  "name": "reactor-finance-assets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/check.js",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reactor-Finance/assets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reactor-Finance/assets/issues"
+  },
+  "homepage": "https://github.com/Reactor-Finance/assets#readme",
+  "description": "",
+  "devDependencies": {
+    "ethereum-address": "^0.0.4",
+    "zod": "^3.24.2"
+  }
+}

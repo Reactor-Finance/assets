@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Monad Coin",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "symbol": "MON",
+    "decimals": 18,
+    "logoURI": "https://storage.googleapis.com/influencer-272204.appspot.com/public/internal-tools/1732175511490/54777.png",
+    "chainId": 10143
+  },
+  {
+    "name": "Wrapped Monad",
+    "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+    "symbol": "WMON",
+    "decimals": 18,
+    "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/I_t8rg_V_400x400.jpg/public",
+    "chainId": 10143
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/images.png/public",
+    "chainId": 10143
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x62534E4bBD6D9ebAC0ac99aeaa0aa48E56372df0",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/usdc.png/public",
+    "chainId": 10143
+  },
+  {
+    "name": "Staked Monad",
+    "address": "0x07AabD925866E8353407E67C1D157836f7Ad923e",
+    "symbol": "sMON",
+    "decimals": 18,
+    "logoURI": "https://kintsu-logos.s3.us-east-1.amazonaws.com/sMON.svg",
+    "chainId": 10143
+  },
+  {
+    "name": "Chainlink Token",
+    "address": "0x6fE981Dbd557f81ff66836af0932cba535Cbc343",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/chainlink-link-logo.png",
+    "chainId": 10143
+  }
+]
