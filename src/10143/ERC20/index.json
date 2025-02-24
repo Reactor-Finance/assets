@@ -46,5 +46,21 @@
     "decimals": 18,
     "logoURI": "https://cryptologos.cc/logos/chainlink-link-logo.png",
     "chainId": 10143
+  },
+  {
+    "name": "DAI Stablecoin",
+    "address": "0x400883e03aAAE5Eb1dE4273B602c067F8F1E252D",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=040",
+    "chainId": 10143
+  },
+  {
+    "name": "Basic Attention Token",
+    "address": "0x4Ba2ca8F076a8a9A9166d4CB4cCa86f42918a8e6",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/basic-attention-token-bat-logo.png?v=040",
+    "chainId": 10143
   }
 ]
