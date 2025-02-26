@@ -25,7 +25,7 @@
   },
   {
     "name": "USD Coin",
-    "address": "0x62534E4bBD6D9ebAC0ac99aeaa0aa48E56372df0",
+    "address": "0xf817257fed379853cDe0fa4F97AB987181B1E5Ea",
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/usdc.png/public",
@@ -61,6 +61,14 @@
     "symbol": "BAT",
     "decimals": 18,
     "logoURI": "https://cryptologos.cc/logos/basic-attention-token-bat-logo.png?v=040",
+    "chainId": 10143
+  },
+  {
+    "name": "Reactor Finance Token",
+    "address": "0xE125F57EAF50C4e93B8c24c5c49D405e51D7122D",
+    "symbol": "RCT",
+    "decimals": 18,
+    "logoURI": "https://avatars.githubusercontent.com/u/187562504?s=200&v=4",
     "chainId": 10143
   }
 ]
