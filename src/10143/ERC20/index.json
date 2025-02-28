@@ -70,5 +70,17 @@
     "decimals": 18,
     "logoURI": "https://avatars.githubusercontent.com/u/187562504?s=200&v=4",
     "chainId": 10143
-  }
+  },
+  { "name": "Tarp Coin",
+    "address":"0xf08ae37182DA7a094087f3255Fa1915fa4490483",
+    "symbol":"TARP",
+    "decimals": 18,
+    "logoURI":"",
+    "chainId": 10143},
+    { "name": "Vootem",
+    "address":"0x1EF97B4c3Fa0b5aFB1727D9598027257944390F7",
+    "symbol":"VOOT",
+    "decimals": 18,
+    "logoURI":"",
+    "chainId": 10143}
 ]
