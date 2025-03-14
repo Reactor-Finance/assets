@@ -8,6 +8,14 @@
     "chainId": 10143
   },
   {
+    "name": "Reactor Finance Token",
+    "address": "0x02B8FcBE1D7ff6D6652C3A332B6a7B71392B6251",
+    "symbol": "RCT",
+    "decimals": 18,
+    "logoURI": "https://avatars.githubusercontent.com/u/187562504?s=200&v=4",
+    "chainId": 10143
+  },
+  {
     "name": "Wrapped Monad",
     "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
     "symbol": "WMON",
@@ -61,14 +69,6 @@
     "symbol": "BAT",
     "decimals": 18,
     "logoURI": "https://cryptologos.cc/logos/basic-attention-token-bat-logo.png?v=040",
-    "chainId": 10143
-  },
-  {
-    "name": "Reactor Finance Token",
-    "address": "0x02B8FcBE1D7ff6D6652C3A332B6a7B71392B6251",
-    "symbol": "RCT",
-    "decimals": 18,
-    "logoURI": "https://avatars.githubusercontent.com/u/187562504?s=200&v=4",
     "chainId": 10143
   },
   {
