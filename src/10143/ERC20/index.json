@@ -8,7 +8,7 @@
     "chainId": 10143
   },
   {
-    "name": "Reactor Finance Token",
+    "name": "Reactor Finance",
     "address": "0x02B8FcBE1D7ff6D6652C3A332B6a7B71392B6251",
     "symbol": "RCT",
     "decimals": 18,
@@ -56,19 +56,36 @@
     "chainId": 10143
   },
   {
-    "name": "Basic Attention Token",
-    "address": "0x4Ba2ca8F076a8a9A9166d4CB4cCa86f42918a8e6",
-    "symbol": "BAT",
-    "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/basic-attention-token-bat-logo.png?v=040",
-    "chainId": 10143
-  },
-  {
     "name": "Wrapped ETH",
     "address": "0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37",
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/weth.jpg/public",
     "chainId": 10143
+  },
+  {
+    "name": "Chog",
+    "address": "0xE0590015A873bF326bd645c3E1266d4db41C4E6B",
+    "symbol": "CHOG",
+    "decimals": 18,
+    "logoURI": "https://imagedelivery.net/tWwhAahBw7afBzFUrX5mYQ/5d1206c2-042c-4edc-9f8b-dcef2e9e8f00/public",
+    "chainId": 10143
+  },
+  {
+    "name": "Moyaki",
+    "address": "0xfe140e1dCe99Be9F4F15d657CD9b7BF622270C50",
+    "symbol": "YAKI",
+    "decimals": 18,
+    "logoURI": "https://imagedelivery.net/tWwhAahBw7afBzFUrX5mYQ/6679b698-a845-412b-504b-23463a3e1900/public",
+    "chainId": 10143
+  },
+  {
+    "name": "Basic Attention Token",
+    "address": "0x4Ba2ca8F076a8a9A9166d4CB4cCa86f42918a8e6",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/basic-attention-token-bat-logo.png?v=040",
+    "chainId": 10143
   }
+    
 ]
