@@ -72,19 +72,11 @@
     "chainId": 10143
   },
   {
-    "name": "Tarp Coin",
+    "name": "Wrapped ETH",
     "address": "0xf08ae37182DA7a094087f3255Fa1915fa4490483",
-    "symbol": "TARP",
+    "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/fusionxx23/mock-tokens/refs/heads/main/tokens/tarp.png",
-    "chainId": 10143
-  },
-  {
-    "name": "Vootem",
-    "address": "0x1EF97B4c3Fa0b5aFB1727D9598027257944390F7",
-    "symbol": "VOOT",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/fusionxx23/mock-tokens/refs/heads/main/tokens/voot.png",
+    "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/weth.jpg/public",
     "chainId": 10143
   }
 ]
