@@ -1,12 +1,5 @@
 [
-  {
-    "name": "Monad Coin",
-    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-    "symbol": "MON",
-    "decimals": 18,
-    "logoURI": "https://storage.googleapis.com/influencer-272204.appspot.com/public/internal-tools/1732175511490/54777.png",
-    "chainId": 10143
-  },
+
   {
     "name": "Reactor Finance Token",
     "address": "0x02B8FcBE1D7ff6D6652C3A332B6a7B71392B6251",
