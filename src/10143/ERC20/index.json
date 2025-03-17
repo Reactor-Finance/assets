@@ -80,6 +80,14 @@
     "chainId": 10143
   },
   {
+    "name": "Molandak",
+    "address": "0x0F0BDEbF0F83cD1EE3974779Bcb7315f9808c714",
+    "symbol": "DAK",
+    "decimals": 18,
+    "logoURI": "https://imagedelivery.net/tWwhAahBw7afBzFUrX5mYQ/27759359-9374-4995-341c-b2636a432800/public",
+    "chainId": 10143
+  },
+  {
     "name": "Basic Attention Token",
     "address": "0x4Ba2ca8F076a8a9A9166d4CB4cCa86f42918a8e6",
     "symbol": "BAT",
