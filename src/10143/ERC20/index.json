@@ -66,7 +66,7 @@
   {
     "name": "ShMonad",
     "address": "0x3a98250F98Dd388C211206983453837C8365BDc1",
-    "symbol": "ShMON",
+    "symbol": "shMON",
     "decimals": 18,
     "logoURI": "https://i.imghippo.com/files/Osf1224Egs.png",
     "chainId": 10143
