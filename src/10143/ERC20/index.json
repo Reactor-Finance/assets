@@ -64,8 +64,16 @@
     "chainId": 10143
   },
   {
-    "name": "Reactor Finance Token",
+    "name": "Reactor Finance Token (Deprecated)",
     "address": "0x02B8FcBE1D7ff6D6652C3A332B6a7B71392B6251",
+    "symbol": "RCT (Deprecated)",
+    "decimals": 18,
+    "logoURI": "https://avatars.githubusercontent.com/u/187562504?s=200&v=4",
+    "chainId": 10143
+  },
+  {
+    "name": "Reactor Finance Token",
+    "address": "0x4cc41000e62E1eF9060529A7CeDB4D9144387554",
     "symbol": "RCT",
     "decimals": 18,
     "logoURI": "https://avatars.githubusercontent.com/u/187562504?s=200&v=4",
