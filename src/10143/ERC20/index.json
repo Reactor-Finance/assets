@@ -8,8 +8,8 @@
     "chainId": 10143
   },
   {
-    "name": "Reactor Finance (Deprecated)",
-    "address": "0x02B8FcBE1D7ff6D6652C3A332B6a7B71392B6251",
+    "name": "Reactor Finance",
+    "address": "0xc503424cE6D9A1D452D620CdD0c3C419D5fcB735",
     "symbol": "RCT (Deprecated)",
     "decimals": 18,
     "logoURI": "https://avatars.githubusercontent.com/u/187562504?s=200&v=4",
