@@ -16,14 +16,6 @@
     "chainId": 10143
   },
   {
-    "name": "Reactor Finance",
-    "address": "0x4cc41000e62E1eF9060529A7CeDB4D9144387554",
-    "symbol": "RCT",
-    "decimals": 18,
-    "logoURI": "https://avatars.githubusercontent.com/u/187562504?s=200&v=4",
-    "chainId": 10143
-  },
-  {
     "name": "Tether USD",
     "address": "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D",
     "symbol": "USDT",
