@@ -44,7 +44,7 @@
     "address": "0x6fE981Dbd557f81ff66836af0932cba535Cbc343",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/chainlink-link-logo.png",
+    "logoURI": "https://assets.coingecko.com/coins/images/877/standard/chainlink-new-logo.png?1696502009",
     "chainId": 10143
   },
   {
@@ -52,7 +52,7 @@
     "address": "0x400883e03aAAE5Eb1dE4273B602c067F8F1E252D",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png",
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996",
     "chainId": 10143
   },
   {
@@ -68,7 +68,7 @@
     "address": "0x3a98250F98Dd388C211206983453837C8365BDc1",
     "symbol": "shMON",
     "decimals": 18,
-    "logoURI": "https://i.imghippo.com/files/Osf1224Egs.png",
+    "logoURI": "https://alpha.clober.io/_next/image?url=%2Fasset-icon%2FshMON.png&w=64&q=75",
     "chainId": 10143
   },
   {
@@ -108,7 +108,7 @@
     "address": "0x4Ba2ca8F076a8a9A9166d4CB4cCa86f42918a8e6",
     "symbol": "BAT",
     "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/basic-attention-token-bat-logo.png",
+    "logoURI": "https://assets.coingecko.com/coins/images/677/standard/basic-attention-token.png?1696501867",
     "chainId": 10143
   }
 ]
